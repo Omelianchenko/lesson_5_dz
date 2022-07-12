@@ -1,0 +1,120 @@
+@import url(./_reset.css);
+@import url(./_fonts.css);
+body {
+    background-color: #F9F9F9;
+    font-family: 'Roboto';
+    font-style: normal;
+}
+.grey {
+    background-color: #EEEFF1;
+}
+.blue {
+    background-color: #34547A;
+}
+nav {
+    padding-top: 79px;
+    padding-left: 357px;
+}
+a {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+    color: #000000;
+    padding-left: 42px;
+}
+.main_a {
+    font-weight: 500;
+}
+.header_text {
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 79px;
+    color: #000000;
+}
+h1 {
+    padding-top: 162px;
+    padding-left: 399px;
+}
+p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+    width: 540px;
+}
+.header_paragraf {
+    padding-top: 60px;
+    padding-left: 400px;
+    padding-bottom: 65px;
+}
+input {
+    width: 225px;
+    height: 65px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+    background-color: #34547A;
+    margin-left: 399px;
+    margin-bottom: 141px;
+}
+.header_text.main_text {
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+}
+.about h2 {
+    margin: 50px auto;
+    padding-top: 62px;
+}
+.main_paragraf {
+    text-align: center;
+}
+.about p {
+    margin: 0px auto;
+    padding-bottom: 100px;
+}
+.numbers {
+    text-align: center;
+}
+img {
+    width: 141px;
+    padding: 100px 24.5px;
+}
+.my_work h2 {
+    padding-top: 100px;
+    padding-bottom: 50px;  
+}
+.my_work p {
+    margin: 0px auto;
+    padding-bottom: 57px;
+}
+iframe {
+    display: block;
+    width: 1110px;
+    height: 600px;
+    padding-bottom: 100px;
+    margin: 0px auto;
+}
+footer {
+    height: 151px;
+}
+footer p {
+    color: #FFFFFF;
+    padding-left: 406px; 
+}
+.name {
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+    padding-top: 50px;
+}
+.copyright {
+    font-size: 13px;
+    line-height: 21px;
+    padding-top: 20px;
+}
