@@ -80,10 +80,32 @@ input {
 }
 .numbers {
     text-align: center;
+    padding: 100px 0px;
+    margin: 0px auto;
 }
-img {
+.projects {
+    display: inline-block;
+    padding: 0px 24.5px;
     width: 141px;
-    padding: 100px 24.5px;
+    height: 50px;
+}
+.projects_text {
+    display: inline-block;
+    height: 44px;
+    width: 71px;
+    text-align: left;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+    padding-left: 16px;
+}
+.projects_number {
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+}
+.projects img {
+    width: 50px;
 }
 .my_work h2 {
     padding-top: 100px;
